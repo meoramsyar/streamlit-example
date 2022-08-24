@@ -29,7 +29,7 @@ df = user_input_features()
 st.subheader('User Input parameters')
 st.write(df)
 
-iris = github_repo.load_iris()
+iris = user_input.load_iris()
 
 
 
