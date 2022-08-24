@@ -51,4 +51,4 @@ st.write(prediction_proba)
 
 st.image("https://www.gardendesign.com/pictures/images/900x705Max/site_3/iris-louisiana-black-gamecock-iris-beardless-louisiana-iris-shutterstock-com_12592.jpg", caption='Credit to GardenDesign')
 
-st.image("https://www.google.com.my/search?q=iris+flower+jpg&hl=en&tbm=isch&sxsrf=ALiCzsZgk9JgySITvVNPbBHwKmoAVSFI4w%3A1661324747138&source=hp&biw=1366&bih=657&ei=y80FY7TGBpPAhwPB7aDYCA&iflsig=AJiK0e8AAAAAYwXb21ijRxrNIade0nKlk3iklHP3p-JJ&oq=iris+&gs_lcp=CgNpbWcQAxgAMgQIIxAnMgQIIxAnMgsIABCABBCxAxCDATIICAAQgAQQsQMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6CAgAELEDEIMBUNoGWPINYMMaaABwAHgBgAH2B4gB6wqSAQU1LjctMZgBAKABAaoBC2d3cy13aXotaW1nsAEA&sclient=img#imgrc=vCpw_dM_NYAraM")
+st.image("hhttps://unsplash.com/photos/OBtrCoiKlZo")
