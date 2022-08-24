@@ -49,8 +49,6 @@ st.write(iris.target_names[prediction])
 st.subheader('Prediction Probability')
 st.write(prediction_proba)
 
-st.image("https://www.gardendesign.com/pictures/images/900x705Max/site_3/iris-louisiana-black-gamecock-iris-beardless-louisiana-iris-shutterstock-com_12592.jpg", caption='Credit to GardenDesign')
+st.image("https://www.gardendesign.com/pictures/images/900x705Max/site_3/iris-louisiana-black-gamecock-iris-beardless-louisiana-iris-shutterstock-com_12592.jpg", caption='Image from Garden Design')
 
-st.image("https://unsplash.com/photos/OBtrCoiKlZo")
 
-st.image("https://www.istockphoto.com/photo/purple-iris-flowers-gm522740304-91754129?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=http%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Firis%2520flowers%2F&utm_term=iris+flowers")
