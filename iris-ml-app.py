@@ -49,6 +49,4 @@ st.write(iris.target_names[prediction])
 st.subheader('Prediction Probability')
 st.write(prediction_proba)
 
-from PIL import image
-image = image.open('iris flower.jpg')
-st.image(image, caption = 'Credit to David Lliff')
+st.image("https://www.gardendesign.com/pictures/images/900x705Max/site_3/iris-louisiana-black-gamecock-iris-beardless-louisiana-iris-shutterstock-com_12592.jpg", caption='Credit to GardenDesign')
