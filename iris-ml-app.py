@@ -49,4 +49,7 @@ st.write(iris.target_names[prediction])
 st.subheader('Prediction Probability')
 st.write(prediction_proba)
 
-st.image("https://www.britannica.com/plant/Iris-plant-genus", caption='Credit to Encylopedia Britannica')
+from PIL import image
+image = image.open('iris flower.jpg')
+
+st.image(image, caption = 'Credit to David Lliff')
