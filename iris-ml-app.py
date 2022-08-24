@@ -51,5 +51,4 @@ st.write(prediction_proba)
 
 from PIL import image
 image = image.open('iris flower.jpg')
-
 st.image(image, caption = 'Credit to David Lliff')
