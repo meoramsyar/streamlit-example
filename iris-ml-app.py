@@ -49,4 +49,4 @@ st.write(iris.target_names[prediction])
 st.subheader('Prediction Probability')
 st.write(prediction_proba)
 
-st.image("https://www.pinterest.com/pin/246853623299215416/", caption='Credit to Wikipedia')
+st.image("https://www.gardendesign.com/flowers/iris.html", caption='Credit to Wikipedia')
