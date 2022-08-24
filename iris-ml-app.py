@@ -51,4 +51,5 @@ st.write(prediction_proba)
 
 st.image("https://www.gardendesign.com/pictures/images/900x705Max/site_3/iris-louisiana-black-gamecock-iris-beardless-louisiana-iris-shutterstock-com_12592.jpg", caption='Image from Garden Design')
 
+st.image("https://archive.gardenphotos.com/gallery-image/Irises-Flowers-Stock-Photos/G0000H7.vaSvDZBs/I00006awgKg7mknw")
 
