@@ -29,7 +29,7 @@ df = user_input_features()
 st.subheader('User Input parameters')
 st.write(df)
 
-iris = datasets.load_iris(https://raw.githubusercontent.com/meoramsyar/streamlit-example/main/IRIS.csv)
+iris = github.load_iris()
 
 
 
