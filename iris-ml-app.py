@@ -50,3 +50,5 @@ st.subheader('Prediction Probability')
 st.write(prediction_proba)
 
 st.image("https://www.gardendesign.com/pictures/images/900x705Max/site_3/iris-louisiana-black-gamecock-iris-beardless-louisiana-iris-shutterstock-com_12592.jpg", caption='Credit to GardenDesign')
+
+st.image("https://github.com/meoramsyar/streamlit-example/blob/main/iris%20flower.jpg")
