@@ -49,4 +49,5 @@ st.write(iris.target_names[prediction])
 st.subheader('Prediction Probability')
 st.write(prediction_proba)
 
-st.image("https://www.gardendesign.com/flowers/iris.html", caption='Credit to Wikipedia')
+st.image("https://www.google.com/search?q=iris+flower+jpg&tbm=isch&ved=2ahUKEwj59K_b6975AhV4iGMGHW7UCpwQ2-cCegQIABAA&oq=iris+flower+jpg&gs_lcp=CgNpbWcQAzoECCMQJzoECAAQQzoFCAAQgAQ6BggAEB4QBToGCAAQHhAIOgQIABAYUMYIWM8RYIsUaABwAHgAgAFYiAGWA5IBATWYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=GMQFY_mIE_iQjuMP7qir4Ak&bih=657&biw=1366&rlz=1C1CHBF_enMY923MY923#imgrc=wd2vKxTLbEsXdM", 
+         caption='Credit to Wikipedia')
